@@ -37,10 +37,10 @@ border-style: solid;
 .btn{
 	display: inline-block;
 	font-family: monospace;
-	color: #00f;
+	color: #11f;
 	background:  #d7d7d7;
 text-decoration: none;
-margin: 10px 30px 20px 80px;
+margin: 10px 40px 20px 100px;
 padding: 0px 10px 0px 10px;
 }
 .bottom-container{
